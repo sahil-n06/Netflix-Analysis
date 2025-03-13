@@ -12,8 +12,11 @@ Analyze Netflix data to uncover trends in content distribution, genre popularity
 
 ## 🚀 Features
 ✔️ **Top Genres** 🎭  
+
 ✔️ **Content Growth** 📈
+
 ✔️ **Movie vs. TV Show Ratio** 📺  
+
 ✔️ **Ratings Distribution** ⭐  
 
 ## 🏗️ Run the Project
